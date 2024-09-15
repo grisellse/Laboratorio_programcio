@@ -1,1 +1,1 @@
-# Laboratorio_programcio
+# Laboratorio_programación 
